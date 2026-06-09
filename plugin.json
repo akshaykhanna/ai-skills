@@ -1,0 +1,15 @@
+{
+  "name": "ai-skills-plugin",
+  "version": "1.0.0",
+  "description": "Custom skills to toggle Antigravity IDE between read-only and action/write execution modes",
+  "author": {
+    "name": "akshaykhanna"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "antigravity",
+    "skills",
+    "read-only",
+    "action"
+  ]
+}

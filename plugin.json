@@ -1,7 +1,7 @@
 {
   "name": "ai-skills-plugin",
   "version": "1.0.0",
-  "description": "Custom skills to toggle Antigravity IDE between read-only and action/write execution modes",
+  "description": "Custom skills for coding ai agents like Google's antigravity and Claude code",
   "author": {
     "name": "akshaykhanna"
   },

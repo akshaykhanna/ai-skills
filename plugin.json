@@ -10,6 +10,7 @@
     "antigravity",
     "skills",
     "read-only",
-    "action"
+    "action",
+    "plan-view"
   ]
 }
